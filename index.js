@@ -1,6 +1,6 @@
 const age = 21;
 
-const name = "Ritesh Goyal";
+const name = "Ritya Goyal";
 
 function displayAge() {
   console.log(age);
